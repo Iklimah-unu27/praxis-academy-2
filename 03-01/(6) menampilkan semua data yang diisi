@@ -1,0 +1,10 @@
+select*from list
+
+id |     penulis     |              judul               |  pnb  |     isbn      |                                                                                                                                                                                                                                                                                                             des                                                                                                                                                                                                                                                                                                             
+----+-----------------+----------------------------------+-------+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  1 | Haidar Musyafaa | BUYA HAMKA Sebuah Novel Biografi | IMMaa | 9786027926394 |  Di masa Demokrasi Terpimpin, Buya Hamka adalah sosok yang kadang berbeda pendapat dengan Presiden Sukarno, juga berseberangan dengan kaum komunis. Melalui Majalah Lentera, karya-karyanya diserang habis. Berbulan-bulan lamanya ia hadapi hantaman orang-orang yang tak sepaham dengannya. Dua tahun empat bulan lamanya, Buya Hamka hidup dalam penjara rezim Sukarno. Meski begitu, ia tak marah. Ia tidak hanya dekat dengan mereka yang sepaham dan sepemikiran, tapi juga tidak menghindari orang yang tidak disukainya. Ia berprinsip bahwa dengan mengenal sesama yang berbeda, akan menemukan sudut pandang baru
+(1 row)
+
+(END)
+
+

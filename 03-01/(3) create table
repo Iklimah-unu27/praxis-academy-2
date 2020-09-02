@@ -1,0 +1,9 @@
+book=# create table list(id int, penulis varchar, judul varchar, pnb varchar, isbn varchar, des varchar);
+CREATE TABLE
+book=# \d
+       List of relations
+ Schema | Name | Type  | Owner 
+--------+------+-------+-------
+ public | list | table | tatam
+(1 row)
+

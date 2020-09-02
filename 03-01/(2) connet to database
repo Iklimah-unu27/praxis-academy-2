@@ -1,0 +1,3 @@
+tatam=# \c book
+You are now connected to database "book" as user "tatam".
+book=# 

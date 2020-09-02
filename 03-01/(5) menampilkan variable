@@ -1,0 +1,10 @@
+book=# \d list
+                     Table "public.list"
+ Column  |       Type        | Collation | Nullable | Default 
+---------+-------------------+-----------+----------+---------
+ id      | integer           |           |          | 
+ penulis | character varying |           |          | 
+ judul   | character varying |           |          | 
+ pnb     | character varying |           |          | 
+ isbn    | character varying |           |          | 
+ des     | character varying |           |          | 
